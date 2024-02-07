@@ -1,2 +1,3 @@
 # smri-ea-terraform-template
-Terraform Template by Enterprise And Architecture Devops
+Terraform Standard Template by Enterprise And Architecture Devops
+
